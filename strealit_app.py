@@ -3,6 +3,7 @@ streamlit.title('My Parents New Healthy Diner')
 
 streamlit.header('Breakfast menu')
 
-streamlit.text('Omega 3 7 Blueberry Oatmeal')
-streamlit.text('Kale, Spinach & Rocket Smoothie')
-streamlit.text('Hard-Boiled Free-Range Egg')
+streamlit.text('🥣Omega 3 7 Blueberry Oatmeal')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞Avocado Toast')
